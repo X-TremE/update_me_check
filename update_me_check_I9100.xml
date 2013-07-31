@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Version>
+  <Code>10</Code>
+	<Desc>X-TremE ROM by X-TremE Team</Desc>
+	<Url>http://www.xdafileserver.nl/TF101/CM9%20by%20ricardopvz/Normal/29%20Mar/update-cm-9.0.0-RC0-tf101-KANG-29Mar-signed.zip</Url>
+	<HomepageUrl>http://x-tremerom.blogspot.com/</HomepageUrl>
+	<DonateUrl>http://forum.xda-developers.com/donatetome.php?u=4680370</DonateUrl>
+	<CheckMD5>0</CheckMD5>
+	<RebootRecovery>1</RebootRecovery>
+</Version>
